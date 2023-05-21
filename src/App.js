@@ -1,5 +1,8 @@
+import { Header } from "./common/Header";
+import
+
 function App() {
-  return <div className="App"></div>;
+  return <Header />;
 }
 
 export default App;
