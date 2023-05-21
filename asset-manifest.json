@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/rock-paper-scissors-react/static/js/main.daac73dc.js",
+    "static/js/787.18ede9e8.chunk.js": "/rock-paper-scissors-react/static/js/787.18ede9e8.chunk.js",
+    "index.html": "/rock-paper-scissors-react/index.html",
+    "main.daac73dc.js.map": "/rock-paper-scissors-react/static/js/main.daac73dc.js.map",
+    "787.18ede9e8.chunk.js.map": "/rock-paper-scissors-react/static/js/787.18ede9e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.daac73dc.js"
+  ]
+}
